@@ -66,6 +66,7 @@
 **專案描述與成果：**
 - 與同學合作開發AI健身系統
 - 設計並實現AI引導健身的可行性
+- 健身動作、AI健身語音糾錯與引導
 - 後臺記錄使用者的健身情況與卡路里等消耗
 
 📄 [查看 PDF](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/11143033-design/Resume1/main/智慧健身運動系統-AI%20FitMotion%2B.pdf) | [下載 PDF](https://raw.githubusercontent.com/11143033-design/Resume1/main/智慧健身運動系統-AI%20FitMotion%2B.pdf)
