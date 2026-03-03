@@ -4,11 +4,13 @@
 
 <div align="center">
 
-📧 [11143033@gms.tcu.edu.tw](mailto:11143033@gms.tcu.edu.tw) &nbsp;•&nbsp; 📱 0909-189-911
+📄 [查看自傳](自傳.md)
 
 📄 [查看完整履歷表](RESUME.md)
 
-📄 [查看自傳](自傳.md)
+📧 [11143033@gms.tcu.edu.tw](mailto:11143033@gms.tcu.edu.tw) &nbsp;•&nbsp; 📱 0909-189-911
+
+
 
 </div>
 
