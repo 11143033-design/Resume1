@@ -1,99 +1,82 @@
-# 履歷表
+﻿
+# 陳柏恩 — 履歷
 
-## 基本信息
+> 資訊管理系應屆畢業生｜程式開發 × 多媒體製作
 
-**姓名：** 陳柏恩
-**聯絡電話：** +886-909-189-911
-**電子郵件：**  [11143033@gms.tcu.edu.tw](mailto:11143033@gms.tcu.edu.tw) &
-**LinkedIn：** linkedin.com/in/mingxuan-lee
-**GitHub：** [github.com/mingxuan-lee](https://github.com/11143033-design)
+---
+
+## 聯絡資訊
+
+- **電話：** +886-909-189-911
+- **電子郵件：** [11143033@gms.tcu.edu.tw](mailto:11143033@gms.tcu.edu.tw)
+- **LinkedIn：** https://linkedin.com/in/mingxuan-lee
+- **GitHub：** https://github.com/11143033-design
 
 ---
 
 ## 教育背景
 
-### 学士學位 - 資訊管理學系
-**大學名稱：** 私立慈濟大學
-**入学年份：** 2022年9月
-**預計畢業：** 2026年6月
-**GPA：** 3.8/4.0
+**學士｜資訊管理學系** — 私立慈濟大學
 
-**主要課程：**
-- 影片剪輯
-- 資訊安全基礎
-- 系統分析與設計
-- 資料庫系統與設計
+- 在學期間：2022.09 – 2026.06（預計）
+- GPA：3.8 / 4.0
+- 相關課程：資料庫系統與設計、網頁應用程式開發、系統分析與設計、影片剪輯、資訊安全基礎
 
 ---
 
-## 專業技能
+## 核心技能
 
-### 程式語言
-- **後端：** Python, Java, JavaScript/Node.js
-- **前端：** React, Vue.js, HTML5, CSS3
-- **資料庫：** MySQL, MongoDB, SQL Server
-- **其他：** SQL, Git
-
-### 工具與框架
-- **開發工具：** Visual Studio Code,  GitHub
-- **資料分析：** Excel,  Power BI
-
-### 軟實力
-- 決策能力
-- 問題分析與解決
-- 團隊協作與溝通
-- 快速學習新技術
+- **程式語言：** Python、Java、JavaScript (Node.js)
+- **前／後端：** React、Vue.js、HTML5、CSS3、Node.js
+- **資料庫：** MySQL、MongoDB、SQL Server、SQL
+- **工具：** Visual Studio Code、Git、GitHub、Power BI、Excel
+- **軟實力：** 團隊協作、問題分析與解決、數據驅動決策、快速學習
 
 ---
 
-## 實習與工作經驗
+## 實習經驗
 
-**公司：** 花蓮新天堂遊樂園
-**職位：** 行銷實習生
-**時間：** 2025年6月 - 2025年8月
+### 花蓮新天堂遊樂園 — 行銷實習生
 
-**主要職責：**
-- 執行公司宣傳影片剪輯與製作
-- 深入了解公司職場環境與工作流程
+- 任期：2025.06 – 2025.08
+- 工作重點：公司宣傳影片之拍攝與後製、跨部門溝通協調、品牌活動協助
+
 ---
 
 ## 專案經驗
 
-### AI 健身系統開發
-**時間：** 2024年9月 - 2026年1月
-**角色：** 資料蒐集與系統測試人員
+### AI 健身系統開發（AI FitMotion+）
 
-**專案描述與成果：**
-- 與同學合作開發AI健身系統
-- 設計並實現AI引導健身的可行性
-- 健身動作、AI健身語音糾錯與引導
-- 後臺記錄使用者的健身情況與卡路里等消耗
+- 期間：2024.09 – 2026.01
+- 角色：資料蒐集與系統測試
+- 職責：協作開發 AI 智慧健身導引、設計健身流程、後端紀錄使用者運動數據與卡路里消耗
+- 文件：📄 [查看 PDF](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/11143033-design/Resume1/main/%E6%99%BA%E6%85%A7%E5%81%A5%E8%BA%AB%E9%81%8B%E5%8B%95%E7%B3%BB%E7%B5%B1-AI%20FitMotion%2B.pdf) ｜ [下載 PDF](https://raw.githubusercontent.com/11143033-design/Resume1/main/%E6%99%BA%E6%85%A7%E5%81%A5%E8%BA%AB%E9%81%8B%E5%8B%95%E7%B3%BB%E7%B5%B1-AI%20FitMotion%2B.pdf)
 
-📄 [查看 PDF](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/11143033-design/Resume1/main/智慧健身運動系統-AI%20FitMotion%2B.pdf) | [下載 PDF](https://raw.githubusercontent.com/11143033-design/Resume1/main/智慧健身運動系統-AI%20FitMotion%2B.pdf)
 ---
 
 ## 語言能力
 
-| 語言 | 等級 |
+| 語言 | 能力 |
 |------|------|
 | 中文 | 母語 |
-| 英文 | 聽寫讀說 |
-| 日文 | 說 |
+| 英文 | 閱讀 / 寫作 / 會話 |
+| 日文 | 基本會話 |
 
 ---
 
-## 其他資訊
+## 其他與證照
 
-- **證照：** Adibe Certified Professional、HTML & CSS
-- **技術部落格：** 定期在tiktok發布自己的剪輯短片
-- **持續學習：** 正在持續學習影片剪輯技術
+- **證照：** Adobe Certified Professional、HTML & CSS
+- **個人頻道：** 於 TikTok 發佈技術與剪輯短片
+- **持續學習：** 影片剪輯、資料分析相關課程與專案實作
 
 ---
 
 ## 自我介紹
 
-我是一位充滿熱情的資訊管理專業大四學生，具有紮實的程式設計基礎和影片剪輯。我相信通過持續學習和團隊合作，能夠開發出高質量、用戶友善的軟體產品。我期待能夠加入一個充滿挑戰和創新精神的團隊，並在其中貢獻我的技能與創新思維。
+我是一位具備資訊管理與多媒體製作背景的應屆畢業生，善於將技術與設計結合。喜歡透過實作學習、擅長在團隊中協同解決問題，期望從事軟體開發或多媒體相關職務並持續成長。
 
 ---
 
-**最後更新日期：** 2026年3月
+> 最後更新：2026年3月3日
+
