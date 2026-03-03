@@ -6,6 +6,8 @@
 
 📧 [11143033@gms.tcu.edu.tw](mailto:11143033@gms.tcu.edu.tw) &nbsp;•&nbsp; 📱 0909-189-911
 
+📄 [查看完整履歷表](RESUME.md)
+
 </div>
 
 ---
