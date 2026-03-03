@@ -68,7 +68,7 @@
 - 設計並實現AI引導健身的可行性
 - 後臺記錄使用者的健身情況與卡路里等消耗
 
-[AI FitMotion+ 智慧健身運動系統](智慧健身運動系統-AI FitMotion+.pdf)
+[AI FitMotion+ 智慧健身運動系統](https://raw.githubusercontent.com/11143033-design/Resume1/main/智慧健身運動系統-AI%20FitMotion%2B.pdf)
 ---
 
 ## 語言能力
