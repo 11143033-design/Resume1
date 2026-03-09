@@ -43,14 +43,32 @@
 
 ---
 
-## 專題
+## 實作經驗
 
 ### AI 健身系統開發（AI FitMotion+）
 
 - 期間：2024.09 – 2026.01
 - 角色：資料蒐集與系統測試
 - 職責：協作開發 AI 智慧健身導引、設計健身流程、後端紀錄使用者運動數據與卡路里消耗
-- 文件：📄 [查看 PDF](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/11143033-design/Resume1/main/%E6%99%BA%E6%85%A7%E5%81%A5%E8%BA%AB%E9%81%8B%E5%8B%95%E7%B3%BB%E7%B5%B1-AI%20FitMotion%2B.pdf) ｜ [下載 PDF](https://raw.githubusercontent.com/11143033-design/Resume1/main/%E6%99%BA%E6%85%A7%E5%81%A5%E8%BA%AB%E9%81%8B%E5%8B%95%E7%B3%BB%E7%B5%B1-AI%20FitMotion%2B.pdf)
+- 文件：📄 [查看 PDF](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/11143033-design/Resume1/main/%E5%AF%A6%E4%BD%9C%E7%B6%93%E9%A9%97/%E6%99%BA%E6%85%A7%E5%81%A5%E8%BA%AB%E9%81%8B%E5%8B%95%E7%B3%BB%E7%B5%B1-AI%20FitMotion%2B.pdf) ｜ [下載 PDF](https://raw.githubusercontent.com/11143033-design/Resume1/main/%E5%AF%A6%E4%BD%9C%E7%B6%93%E9%A9%97/%E6%99%BA%E6%85%A7%E5%81%A5%E8%BA%AB%E9%81%8B%E5%8B%95%E7%B3%BB%E7%B5%B1-AI%20FitMotion%2B.pdf)
+
+---
+
+### AIoT 小實作
+
+- 期間：2025.09 – 2025.11
+- 角色：主要負責人
+- 職責：開發AIoT音樂盒應用系統
+- 文件：📄 [查看 PDF](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/11143033-design/Resume1/main/%E5%AF%A6%E4%BD%9C%E7%B6%93%E9%A9%97/AIoT%E5%B0%8F%E5%AF%A6%E4%BD%9C.pdf) ｜ [下載 PDF](https://raw.githubusercontent.com/11143033-design/Resume1/main/%E5%AF%A6%E4%BD%9C%E7%B6%93%E9%A9%97/AIoT%E5%B0%8F%E5%AF%A6%E4%BD%9C.pdf)
+
+---
+
+### 鐵達尼號生還概率分析
+
+- 期間：2025.09 – 2026.01
+- 角色：測算人員
+- 職責：數據清理、機器學習模型訓練、預測分析
+- 文件：📄 [查看 Notebook](https://nbviewer.jupyter.org/github/11143033-design/Resume1/blob/main/%E5%AF%A6%E4%BD%9C%E7%B6%93%E9%A9%97/%E9%90%B5%E9%81%94%E5%B0%BC%E8%99%9F%E7%94%9F%E5%B7%B8%E6%A6%82%E7%8E%87.ipynb) ｜ [下載 Notebook](https://raw.githubusercontent.com/11143033-design/Resume1/main/%E5%AF%A6%E4%BD%9C%E7%B6%93%E9%A9%97/%E9%90%B5%E9%81%94%E5%B0%BC%E8%99%9F%E7%94%9F%E5%B7%B8%E6%A6%82%E7%8E%87.ipynb)
 
 ---
 
