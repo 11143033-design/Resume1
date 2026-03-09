@@ -84,7 +84,7 @@
 
 ## 其他與證照
 
-- **證照：** Adobe Certified Professional、HTML & CSS
+- **證照：** 電腦硬體裝修丙級、電腦硬體裝修乙級、Adobe Certified Professional、HTML & CSS
 - **個人頻道：** 於 TikTok 發佈技術與剪輯短片
 - **持續學習：** 影片剪輯、資料分析相關課程與專案實作
 
